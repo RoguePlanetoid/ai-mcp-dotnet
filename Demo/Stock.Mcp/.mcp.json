@@ -1,0 +1,10 @@
+{
+  "inputs": [],
+  "servers": {
+    "stock": {
+      "type": "http",
+      "url": "http://localhost:5050/mcp",
+      "headers": {}
+    }
+  }
+}
